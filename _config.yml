@@ -31,7 +31,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/avatar-icon.png"
 
 # --- Background colour/image options --- #
 
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Yue Zhuang
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -67,12 +67,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "bzybc1405@gmail.com"
+  facebook: yue.zhuang.180
+  github: zysophia
+#  twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: yue-zhuang-87a949170
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
