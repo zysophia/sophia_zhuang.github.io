@@ -21,6 +21,7 @@ description: My Personal Homepage
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  CV: "resume"
   Resources:
     - Medium Posts: "https://medium.com/@bzybc1405"
     - Learn markdown: "http://www.markdowntutorial.com/"
